@@ -1,0 +1,52 @@
+ 
+
+EP 17 000 764.5 DESCRIPTION (03.05.2017) 435
+
+ 
+
+Shin-Etsu Chemical Co., Ltd. EPA-139 128
+
+[0009]
+
+The wafer having a surface on which unevenness
+and/or a protective organic film layer (A) is formed may
+be a device wafer having a circuit formed.
+
+[0010]
+
+The device wafers described above are generally
+expensive, and the check method is desired to be
+nondestructive and convenient, with the wafer being
+reusable. Accordingly, it is more favorable to adopt the
+inventive wafer processing laminate.
+
+[0011]
+
+The organic film layer (B) with a film thickness of
+less than 100 nm may be a spin-coated film.
+[0012]
+
+The spin-coated film is a film formed by a spin-
+coating method. On a surface having unevenness, the spin-
+coating method particularly tends to form coating
+irregularities around the unevenness, and can have
+portions without forming the film in a very thin film
+thickness of less than 100 nm. The inventive wafer
+processing laminate can be favorably used for a purpose of
+checking such coating irregularities and coating failure.
+[0013]
+
+The organic film layer (B) preferably has a film
+thickness of 5 to 50 nm.
+
+[0014]
+
+When the film thickness is 100 nm or more, it is
+possible to check visually under a visible light since an
+interference fringe generates. When the film thickness is
+less than 100 nm, particularly 50 nm or less, however, it
+becomes difficult to check visually under a visible light,
+and the inventive wafer processing laminate can be more
+
+favorably used thereby.
+

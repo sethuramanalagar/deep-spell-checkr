@@ -1,0 +1,49 @@
+ 
+
+EP 17 000 764.5 DESCRIPTION (03.05.2017) 8-9
+
+ 
+
+Shin-Etsu Chemical Co., Ltd. EPA-139 128
+
+method that can reuse the wafer, when an organic film
+layer (B) with a film thickness of less than 100 nm is
+formed on any wafers having an unevenness-forming surface,
+a protective organic film layer (A)-forming surface, or a
+surface on which both of them are formed.
+
+[0029]
+
+The present inventors have diligently studied to
+accomplish the foregoing objects. As a result, the
+present inventors have found that the coverage of an
+organic film layer (B) can be checked when the organic
+film layer (B) with a film thickness of less than 100 nm
+is formed on any wafer, the surface of which has
+unevenness, .a protective organic film layer (A), or both
+of them, by formulating a fluorescent agent that emits
+visible light by irradiating the organic film layer (B)
+with ultraviolet light, and by observing the visible light
+emitted by irradiating the ultraviolet light; thereby
+brought the present invention to completion.
+
+[0030]
+
+Hereinafter, the embodiments of the present
+invention will be specifically described with referring to
+FIGS., but the present invention is not limited thereto.
+[0031]
+
+[Wafer Processing Laminate]
+
+FIG. 1 is a schematic cross sectional view showing
+an example of a wafer processing laminate of the present
+invention. As shown in FIG. 1, in the inventive wafer
+processing laminate 10, the organic film layer (B) 13 with
+a film thickness of less than 100 nm is formed on the
+wafer 11 having a surface on which unevenness and the
+protective organic film layer (A) 12 are formed. This
+organic film layer (B) 13 contains a fluorescent agent
+
+that emits visible light by irradiation with ultraviolet
+

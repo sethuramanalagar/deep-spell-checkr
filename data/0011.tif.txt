@@ -1,0 +1,50 @@
+ 
+
+| EP 17 000 764.5 DESCRIPTION (03.05.2017) 11> 12
+
+ 
+
+Shin-Etsu Chemical Co., Ltd. EPA-139 128
+
+preferably 5 to 50 um.
+[0039]
+
+These wafers may be a device wafer having a circuit
+(an electronic circuit) formed in the interior thereof or
+under the surface structure thereof. Such device wafers
+are generally expensive, and is desired to be inspected in
+a nondestructive process thereby.
+
+[0040]
+
+In the inventive wafer processing laminate, the
+organic film layer (B) contains a fluorescent agent that
+emits visible light by irradiation with ultraviolet light.
+Accordingly, it is possible to irradiate the wafer having
+the organic film layer (B) formed thereon with ultraviolet
+light to check the coverage of the organic film layer (B)
+on the basis of an emission state in the irradiation.
+Therefore, even in the case of such wafers as described
+above, the present invention makes it possible to observe
+the situation around the portion having unevenness and the
+distribution state of the organic film layer (B) in the
+wafer surface by a nondestructive and convenient process.
+[0041]
+
+[Organic Film Layer (B)]
+
+The organic film layer (B) is an organic film layer
+with a film thickness of less than 100 nm which contains a
+fluorescent agent that emits visible light by irradiation
+with ultraviolet light. The lower limit of the film
+thickness of the organic film layer (B) can be 1 nm, for
+example. The film thickness of the organic film layer (B)
+is preferably 5 to 50 nm, more preferably 10 to 40 nm.
+When the film thickness is 100 nm, an interference fringe
+of visible light generates, and the existence of a coating
+film (the organic film layer (B)) can be recognized by
+
+visual inspection. In this case, it is possible to check
+
+11
+

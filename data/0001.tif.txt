@@ -1,0 +1,49 @@
+ 
+
+EP 17 000 764.5 DESCRIPTION (03.05.2017) 132 |
+
+ 
+
+Shin-Etsu Chemical Co., Ltd. EPA-139 128
+
+EPo.
+DESCRIPTION 5 qeunich
+
+03 Mai 201
+WAFER PROCESSING LAMINATE, METHOD FOR MANUFACTURING
+THEREOF, AND METHOD FOR CHECKING COVERAGE OF ORGANIC FILM
+ON WAFER
+
+TECHNICAL FIELD
+[0001]
+
+The present invention relates to a wafer processing
+laminate and a method for manufacturing thereof as well as
+a method for checking coverage of an organic film on a
+
+wafer.
+
+BACKGROUND ART
+[0002]
+
+In circuit forming of semiconductor device wafers,
+the circuit line widths have been continuously
+miniaturized until now. As a result, wiring of the ten
+nano meter range comes to be formed. In photoresist
+materials used for forming the wiring, the coating films
+also have been shifted to thinner films. For measuring
+the film thicknesses of these photoresist materials,
+optical film thickness measuring apparatuses such as an
+ellipsometer have been used. These methods can be used
+for measuring a film thickness applied onto a silicon
+wafer with high flatness. However, it has been difficult
+to check the state of a thin film formed on a surface
+having unevenness in which a circuit has been already
+formed, or a surface having another organic film as an
+underlayment.
+
+[0003]
+| In case of material for rewiring used for a step of
+
+rewiring to additionally form wiring onto a wafer having
+

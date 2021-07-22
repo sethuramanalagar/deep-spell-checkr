@@ -25,9 +25,14 @@ sample_mode = 'argmax'
 reverse = True
 
 data_path = './data'
-train_books = ['nietzsche.txt', 'pride_and_prejudice.txt',
-               'shakespeare.txt', 'war_and_peace.txt']
-val_books = ['wonderland.txt']
+train_books = ['0001.tif.txt', '0002.tif.txt', '0003.tif.txt', '0004.tif.txt', '0005.tif.txt', '0006.tif.txt',
+               '0007.tif.txt', '0008.tif.txt', '0009.tif.txt', '0010.tif.txt', '0011.tif.txt', '0012.tif.txt',
+               '0013.tif.txt', '0014.tif.txt', '0015.tif.txt', '0016.tif.txt', '0017.tif.txt', '0018.tif.txt',
+               '0019.tif.txt', '0020.tif.txt', '0021.tif.txt', '0022.tif.txt', '0023.tif.txt', '0024.tif.txt',
+               '0025.tif.txt', '0026.tif.txt', '0027.tif.txt', '0028.tif.txt', '0029.tif.txt', '0030.tif.txt',
+               '0031.tif.txt', '0032.tif.txt', '0033.tif.txt', '0034.tif.txt']
+
+val_books = ['0033.tif.txt']
 
 
 if __name__ == '__main__':

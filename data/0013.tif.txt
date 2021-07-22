@@ -1,0 +1,50 @@
+ 
+
+EP 17 000 764.5 DESCRIPTION (03.05.2017) 13 > 14
+
+ 
+
+Shin-Etsu Chemical Co., Ltd. EPA-139 128
+
+to 1,000,000, in which a low molecular weight component
+having a molecular weight of 740 or less is 0.5% by mass
+or less, for example.
+
+[0045]
+
+In the foregoing formulae, the organic substituents
+RM, Ri, Ri, Ri, RS, and R?® each independently represent
+an unsubstituted or substituted monovalent hydrocarbon
+group, preferably an unsubstituted or substituted
+monovalent hydrocarbon group having 1 to 10 carbon atoms.
+Tllustrative examples thereof include hydrocarbon groups,
+for example, alkyl groups such as a methyl group, an ethyl
+group, a n-propyl group, an isopropyl group, a n-butyl
+group, a t-butyl group, a n-pentyl group, a cyclopentyl
+group, and a n-hexyl group, cycloalkyl groups such as a
+cyclohexyl group, aryl groups such as a phenyl group anda
+tolyl group; and their halogenated groups in which part of
+or all of the hydrogen atom(s) are substituted with
+halogen atom(s). In these groups, a methyl group anda
+phenyl group are commonly used.
+
+[0046]
+
+It is preferable that the organopolysiloxane has a
+weight average molecular weight that is measured by gel
+permeation chromatography (GPC) in accordance with a
+‘calibration curve in terms of polystyrene standard (in
+this description, “weight average molecular weight” means
+this value) of 200,000 or more, particularly 350,000 or
+more, and 1,000,000 or less, particularly 800,000 or less,
+with the proviso that the content of the Low molecular
+weight component having a molecular weight of 740 or less
+is 0.5% by mass or less.
+
+[0047]
+. The thermoplastic organopolysiloxane polymer
+
+contained in the organic film layer (B) may also be a
+
+13
+

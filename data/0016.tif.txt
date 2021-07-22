@@ -1,0 +1,52 @@
+ 
+
+EP 17 000 764.5 DESCRIPTION (03.05.2017) 16 > 17
+
+ 
+
+Shin-Etsu Chemical Co., Ltd. EPA-139 128
+
+the presence of an amine-type catalyst such as aqueous
+ammonia, triethylamine, and pyridine; generally aqueous
+ammonia. The reaction time is preferably 12 to 100 hours.
+[0053]
+
+In the organopolysiloxane obtained after the
+reaction, the remained hydroxy group(s) may be converted
+to a trimethylsiloxy group(s) by dissolving the obtained
+organopolysiloxane into a solvent such as toluene, adding
+5 to 20 parts by mass of hexamethylsilazane to 100 parts
+by mass of the organopolysiloxane, and refluxing the
+mixture for 3 to 5 hours.
+
+[0054]
+
+The obtained resin modified organopolysiloxane may
+also be dissolved and precipitated in such a way that the
+obtained organopolysiloxane is dissolved into a good
+solvent such as hexane, and mixed with 1.5 to 3 times of
+the total amount of a poor solvent such as acetone. It is
+also possible to use this resin modified
+organopolysiloxane precipitated as an under layer.
+
+[0055]
+
+The obtained resin modified organopolysiloxane
+generally has a weight average molecular weight of 400,000
+or more in terms of a value measured by gel permeation
+chromatography (GPC) in accordance with a calibration
+curve with polystyrene standard.
+
+[0056]
+
+The method for forming the organic film layer (B) is
+not particularly limited. The method includes spin-
+coating, Slit coating, spray coating, vacuum deposition,
+and film laminating. For example, when spin-coating
+method is used, a spin-coating film is formed as the
+organic film layer (B).
+
+[0057]
+
+16
+

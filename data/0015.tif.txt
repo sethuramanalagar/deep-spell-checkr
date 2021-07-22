@@ -1,0 +1,51 @@
+ 
+
+EP 17 000 764.5 DESCRIPTION (03.05.2017) 15 > 16
+
+ 
+
+Shin-Etsu Chemical Co., Ltd. EPA-139 128
+
+including alkyl groups such as a methyl group, an ethyl
+group, a n-propyl group, an isopropyl group, a n-butyl
+group, a t-butyl group, a n-pentyl group, a cyclopentyl
+group, and a n-hexyl group, cycloalkyl groups such as a
+cyclohexyl group, aryl groups such as a phenyl group anda
+tolyl group; and their halogenated groups in which part of
+or all of the hydrogen atom(s) are substituted with
+halogen atom(s), as well as a hydroxy group. In these
+groups, a methyl group is commonly used.
+
+[0050]
+
+. The organopolysiloxane resin having an R27 R?7R235401/2
+unit (M unit) and a SiOgsz unit (Q unit) (hereinafter, also
+referred to as a MQ resin) may contain a hydroxy group
+bonded to a silicon atom. The content of the hydroxy
+group per 100 g of a MO resin is about 0 to 4.0% by mass.
+This MQ resin may contain relatively small amount of an
+R249i03/2 unit (T unit) and an R?°R?°S 4109/2 unit (D unit). In
+this formula, R**, R*°, and R25 each independently represent
+an unsubstituted or substituted monovalent hydrocarbon
+group having 1 to 10 carbon atoms or a hydroxy group, and
+specific examples thereof include the same groups in the
+foregoing examples of R**, R*?, and R*.
+
+[0051]
+
+In the thermoplastic resin modified
+organopolysiloxane, the organopolysiloxane and the
+organopolysiloxane resin are subjected to dehydration
+condensation generally in a ratio of 99:1 to 50:50.
+
+[0052]
+
+The dehydration condensation reaction may be carried
+out in a solvent such as pentane, hexane, cyclopentane,
+cyclohexane, methylcyclohexane, octane, isooctane, decane,
+undecane, isododecane, limonene, pinene, and toluene;
+
+generally toluene. This reaction may also be performed in
+
+15
+

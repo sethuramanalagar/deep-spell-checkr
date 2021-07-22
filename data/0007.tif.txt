@@ -1,0 +1,49 @@
+ 
+
+EP 17 000 764.5 DESCRIPTION (03.05.2017) 7>8
+
+ 
+
+Shin-Etsu Chemical Co., Ltd. EPA-139 128
+
+ADVANTAGEOUS EFFECTS OF INVENTION
+[0025]
+
+In the inventive wafer processing laminate, by
+irradiating the wafer having the organic film layer (B)
+formed thereon with ultraviolet light, it is possible to
+check the coverage of the organic film layer (B) on the
+basis of the emission state in the irradiation. This
+makes it possible to check the coverage of an organic film
+layer (B) with a film thickness of less than 100 nm formed
+on any wafers having an unevenness-forming surface, a
+protective organic film layer (A)-forming surface, or a
+surface on which both of them are formed, by the
+convenient method in which the emission is checked without
+
+destructing the wafer, with the wafer being reusable.
+
+BRIEF DESCRIPTION OF DRAWINGS
+[0026]
+
+FIG. 1 is a schematic cross sectional view showing
+an example of a wafer processing laminate of the present
+invention;
+
+FIG. 2 is a schematic cross sectional view showing a
+bare Si wafer having an organic film layer (B) formed
+
+thereon.
+
+DESCRIPTION OF EMBODIMENTS
+[0027]
+
+Hereinafter, the present invention will be
+specifically described.
+[0028]
+
+As described above, it has been demanded a wafer
+processing laminate in which the coverage of the organic
+
+film can be checked by a nondestructive and convenient
+

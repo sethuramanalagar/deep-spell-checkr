@@ -1,0 +1,54 @@
+ 
+
+EP 17 000 764.5 DESCRIPTION (03.05.2017) 6-7
+
+ 
+
+Shin-Etsu Chemical Co., Ltd. EPA-139 128
+
+emission state in the irradiation.
+[0020]
+
+Such a method for checking coverage of an organic
+film makes it possible to check the coverage of an organic
+film by a nondestructive and convenient process that can
+reuse the wafer.
+
+[0021]
+
+The present invention further provides a method for
+manufacturing a wafer processing laminate, including the
+step of forming an organic film layer (B) with a film
+thickness of less than 100 nm onto a wafer having a
+surface on which unevenness and/or a protective organic
+film layer (A) is formed, characterized in that:
+
+the organic film layer (B) comprises a fluorescent
+agent that emits visible light by irradiation with
+ultraviolet light.
+
+[0022]
+
+Such a method for manufacturing a wafer processing
+laminate makes it possible to securely produce a wafer
+processing laminate in which the coverage of the organic
+film can be checked by a nondestructive and convenient
+method that can reuse the wafer.
+
+[0023]
+
+It is preferable that the method further comprise
+the step of subjecting the wafer having the organic film
+layer (B) formed thereon to irradiation with ultraviolet
+light after the step of forming to check the coverage of
+the organic film layer (B) by an emission state in the
+irradiation.
+
+[0024]
+
+Such a step for checking makes it more convenient to
+
+recognize a portion where the organic film layer (B) is
+
+not formed.
+

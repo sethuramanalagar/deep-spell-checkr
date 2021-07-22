@@ -1,0 +1,51 @@
+ 
+
+EP 17 000 764.5 DESCRIPTION (03.05.2017) 10> 11
+
+ 
+
+Shin-Etsu Chemical Co., Ltd. EPA-139 128
+
+variation of a formed film and coating failure at a
+portion having a difference of altitude. At a portion
+having a difference of altitude, reflected light is not
+normally returned, whereby the film thickness cannot be
+measured in some cases by an optical film thickness
+measuring apparatus, which is generally used for measuring
+a film thickness. It is also impossible to measure
+coating failure precisely when the coating failure portion
+is smaller than the diameter of the measuring spot.
+[0036]
+
+In visual inspection, a wafer surface having a
+protective organic film layer (A) formed thereon shows
+small change when an organic film layer (B) is formed
+thereon. Accordingly, it is difficult to distinguish
+coating failure and coating irregularity. Such a change
+can be detected by using an optical film thickness
+measuring apparatus in the diameter of the measuring spot,
+but the problem portions are difficult to find over an
+entire wafer.
+
+[0037]
+
+The protective organic film layer (A) is not
+particularly limited as far as it is a film formed for
+protecting a wafer surface. In general, thermosetting
+material is used, including polyimide, polybenzoxazole,
+Silicone modified polymers, silicone polymers, acrylic
+polymers, epoxy polymers, and organic films containing
+Silica filler. They may be photosensitive, and in that
+case, unevenness shape is generally formed at the same
+time.
+
+[0038]
+
+The thickness of the protective organic film layer
+
+(A) is not particularly limited. The film thickness is
+
+generally 1 to 200 um, preferably 2 to 100 um, more
+
+10
+

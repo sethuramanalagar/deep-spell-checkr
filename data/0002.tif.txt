@@ -1,0 +1,54 @@
+ 
+
+EP 17 000 764.5 DESCRIPTION (03.05.2017) | *“AMENDED* 233
+
+ 
+
+an uneven surface on which a circuit is formed and/or an
+organic film as an underlayment, and a temporary adhesive
+material used for a step of grinding the back surface of a
+circuit-formed device wafer and a step of forming wiring
+in the back surface of the circuit-forming surface in
+order to use through silicon via (TSV) for three-
+dimensional mounting of a semiconductor (see Patent
+Literature 1, for example), the state of the film forming
+can be checked by observation of the cross section, etc.
+since the film thickness is thicker than photoresist
+material and so on for forming a circuit.
+
+[0004]
+
+However, in case of forming a thin film with the
+thickness of less than 100 nm onto a wafer having an
+uneven surface on which a circuit is formed and/or an
+organic film as an underlayment, there has been no method
+to check the coverage conveniently by a nondestructive
+
+process to manufacture a thin film wafer.
+
+CITATION LIST
+PATENT LITERATURE
+[0005]
+Patent Literature 1: Japanese Unexamined Patent
+Application Publication (Kokai) No. 2013-4821: Pd
+Patent Literature 2: European Patent Application EP 2 574 156 A, which
+discloses a wiring method and structure having wiring provided on
+surface.
+1
+
+SUMMARY OF INVENTION
+TECHNICAL PROBLEM
+[0006]
+
+The present invention was accomplished in view of
+
+ 
+
+the above-described problems. It is an object of the
+present invention to provide a wafer processing laminate
+in which the coverage of the thin film can be checked by a
+
+nondestructive and convenient method, with the wafer being
+
+2
+

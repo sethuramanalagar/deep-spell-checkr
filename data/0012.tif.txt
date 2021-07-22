@@ -1,0 +1,51 @@
+ 
+
+EP 17 000 764.5 DESCRIPTION (03.05.2017) 12 > 13
+
+ 
+
+Shin-Etsu Chemical Co., Ltd. EPA-139 128
+
+the organic film layer (B) visually under visible light
+without using the inventive wafer processing laminate.
+When the film thickness is less than 100 nm, however, the
+interference fringe becomes thinner, and hard to check by
+visual inspection. Particularly, when the film thickness
+is 5 to 50 nm, the visual inspection becomes difficult,
+and it is more favorable to use the inventive wafer
+processing laminate.
+
+[0042]
+
+The component in the organic film layer (B) other
+than the fluorescent agent is not particularly limited.
+It is preferable not to contain solid contents with a size
+larger than the film thickness to be formed.
+
+[0043]
+
+As for the component in the organic film layer (B)
+other than the fluorescent agent, a thermoplastic
+organopolysiloxane polymer can be used. The thermoplastic
+organopolysiloxane polymer has low glass transition
+temperature and fluidity at the normal temperature.
+Accordingly, this cannot always be observed by a method in
+which the cross section of a wafer is observed to measure
+the coating thickness. Therefore, the inventive wafer
+processing laminate can be used more favorably.
+
+[0044]
+
+As the thermoplastic organopolysiloxane polymer
+contained in the organic film layer (B), the structure is
+not particularly limited. Illustrative examples thereof
+include a non-reactive organopolysiloxane that contains
+99.000 to 99.999 mol% of a siloxane unit represented by
+RiMRMsido,. (D unit), 1.000 to 0.001 mol% of a siloxane
+unit represented by R’?RMRYSiOi2 (M unit), and 0.000 to
+0.500 mol% of a siloxane unit represented by R'°Si03/2 (T
+
+unit), having a weight average molecular weight of 200,000
+
+12
+

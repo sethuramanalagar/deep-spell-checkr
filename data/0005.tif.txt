@@ -1,0 +1,54 @@
+ 
+
+EP 17 000 764.5 DESCRIPTION (03.05.2017) 5-6
+
+ 
+
+Shin-Etsu Chemical Co., Ltd. EPA-139 128
+
+[0015]
+
+The organic film layer (B) may comprise a
+thermoplastic organopolysiloxane polymer as a component
+other than the fluorescent agent.
+
+[0016]
+
+The thermoplastic organopolysiloxane polymer, in
+particular, has low glass transition temperature and
+fluidity at the normal temperature, whereby it is
+difficult to check the coverage of the organic film by
+observing the cross section of a divided wafer.
+Accordingly, the inventive wafer processing laminate can
+be favorably applied when the thermoplastic
+organopolysiloxane polymer is used.
+
+[0017]
+
+It is also preferable that the fluorescent agent be
+a fluorescent whitening agent.
+
+[0018]
+
+When the fluorescent agent is a fluorescent
+whitening agent, it is easy to check the emission. It
+becomes more favorable to use the inventive wafer
+processing laminate.
+
+[0019]
+
+The present invention also provides a method for
+checking coverage of an organic film layer (B) with a film
+thickness of less than 100 nm, being formed on a wafer
+having a surface on which unevenness and/or a protective
+organic film layer (A) is formed, characterized in that:
+
+the organic film layer (B) comprises a fluorescent
+agent that emits visible light by irradiation with
+ultraviolet light, and
+
+the wafer having the organic film layer (B) formed
+thereon is subjected to irradiation with ultraviolet light
+
+to check the coverage of the organic film layer (B) by an
+

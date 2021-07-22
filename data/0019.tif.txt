@@ -1,0 +1,53 @@
+ 
+
+EP 17 000 764.5 DESCRIPTION (03.05.2017) 19 > 20
+
+ 
+
+Shin-Etsu Chemical Co., Ltd. EPA-139 128
+
+2H-naphtho[1,2-d]triazole and bis(1,2,3-triazol-2-
+
+yl) stilbene; benzoxazoles such as stilbenylbenzoxazole,
+bis (benzoxazole), and 1,4-bis(2-benzoxazolyl) naphthalene;
+furans; benzofurans; benzoimidazoles; coumarins. The
+fluorescent whitening agent is preferably distyrylbenzenes
+and benzoxazoles. The foregoing fluorescent whitening
+agent makes it easier to check the coating situation by
+the emission.
+
+[0064]
+
+The content of the fluorescent agent in the organic
+film layer (B) is generally 0.1 to 50% by mass, preferably
+1.0 to 30% by mass, more preferably 2.0 to 20% by mass.
+When the amount is 0.1% by mass or more, the emission can
+be recognized easily; and when the amount is 50% by mass
+or less, the film thickness becomes hard to variate.
+
+[0065]
+[Method for Manufacturing a Wafer Processing Laminate]
+
+The inventive method for manufacturing a wafer
+processing laminate is a method including the step of
+forming an organic film layer (B) with a film thickness of
+less than 100 nm onto a wafer having a surface on which
+unevenness and/or a protective organic film layer (A) is
+formed, and is characterized in that: the organic film
+layer (B) comprises a fluorescent agent that emits visible
+light by irradiation with ultraviolet light.
+
+[0066]
+
+The specifics of the structure of each organic film
+layer and the methods for forming the organic film layer
+(B) are the same as described in the items of the wafer
+processing laminate.
+
+[0067]
+Such a method for manufacturing a wafer processing
+
+laminate makes it possible to securely produce a wafer
+
+19
+

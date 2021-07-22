@@ -1,0 +1,52 @@
+ 
+
+EP 17 000 764.5 DESCRIPTION (03.05.2017) 9-10
+
+ 
+
+Shin-Etsu Chemical Co., Ltd. EPA-139 128
+
+light. Although FIG. 1 shows the wafer having a surface
+on which unevenness and a protective organic film layer
+(A) are formed, it is to be noted that the wafer in the
+present invention may have a surface on which unevenness
+or a protective organic film layer (A) is formed.
+
+[0032]
+
+In such a wafer processing laminate, it is possible
+to check the state of forming the organic film layer (B)
+formed on the wafer on the basis of a difference between
+the emitted portions and portions without emission by
+applying ultraviolet light (200 to 400 nm, preferably 300
+to 400 nm) and checking emitted visible light.
+
+[0033]
+
+Hereinafter, each component of the inventive wafer
+processing laminate will be specifically described.
+[0034]
+
+Tllustrative examples of a wafer in the present
+invention include:
+
+(a) a wafer having a surface on which unevenness is formed,
+(b) a wafer having a surface on which a protective organic
+film layer (A) is formed, and
+
+(c) a wafer having a surface on which both of the
+unevenness and a protective organic film layer (A) are
+formed.
+
+[0035]
+
+The unevenness (fine ruggedness) formed on a wafer
+is not particularly limited in its shape. In general,
+however, illustrative examples thereof include a spherical,
+columnar, and polygonal prism structure having a
+difference of altitude of 0.1 to 500 um and a size within
+a 1 to 1000 um square, as well as a linear structure
+having a width of 0.1 to 1000 um. When the film is formed
+
+on the wafer, such a structure can generate thickness
+

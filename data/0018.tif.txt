@@ -1,0 +1,56 @@
+ 
+
+EP 17 000 764.5 DESCRIPTION (03.05.2017) 18 > 19
+
+ 
+
+Shin-Etsu Chemical Co., Ltd. EPA-139 128
+
+above, the present invention makes it possible to
+conveniently observe the distribution state in a wafer
+surface by nondestructive process using visual inspection
+or observation through microscope.
+
+[0060]
+
+[Fluorescent Agent]
+
+The fluorescent agent is not particularly limited as
+far as it is fluorescent material that emits visible light
+by irradiation with ultraviolet light. It is preferable
+that the wavelength of the ultraviolet light to be applied
+be in a range of 200 to 400 nm, particularly 300 to 400
+nm; and the emitted visible light have a wavelength ina
+range of 380 to 750 nm, particularly 400 to 500 nm.
+
+[0061]
+
+| Fluorescent whitening agents are known to fulfill
+
+the foregoing wavelengths of light absorption and emission,
+and are preferably used as the fluorescent agent since
+
+they are easy to procure and have lower risk.
+
+[0062]
+
+The fluorescent whitening agent may include the
+following examples.
+[0063]
+
+Distyrylbenzenes such as 1,4-distyrylbenzene and
+4,4'’-bis(2-methoxystyryl) biphenyl each having a cyano
+group(s); distyrylbiphenyls such as disodium salt of 4,4’-
+di(2-sulfostyryl)biphenyl, disodium salt of 4,4’-di(3-
+sulfostyryl)biphenyl, disodium salt of 4,4’-di(4-chloro-3-
+sulfostyryl)biphenyl, and disodium salt of 4,4’-di(6-
+chloro-3-sulfostyryl)biphenyl; divinylstilbenes such as
+4,4’-di(ethoxycarbonylvinyl) stilbene and 4,4’-
+
+di (cyanovinyl) stilbene; triazinylaminostilbenes such as
+1,3,5-triazinyl derivative of 4,4’-diaminostilbene-2,2'-
+
+disulfonic acid; stilbenyl-2H-triazoles such as stilbenyl-
+
+18
+

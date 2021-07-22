@@ -1,0 +1,50 @@
+ 
+
+EP 17 000 764.5 DESCRIPTION (03.05.2017) 20 > 21
+
+ 
+
+Shin-Etsu Chemical Co., Ltd. EPA-139 128
+
+processing laminate in which the coverage of the organic
+film can be checked by a nondestructive and convenient
+method that can reuse the wafer.
+
+[0068]
+
+After the step of forming, it is preferable to
+perform the step of subjecting the wafer having the
+organic film layer (B) formed thereon to irradiation with
+ultraviolet light to check the coverage of the organic
+film layer (B) by an emission state in the irradiation.
+Such a checking step makes it convenient to check a
+portion(s) where the organic film layer (B) is not formed.
+[0069]
+
+In the present invention, it is also possible to
+manufacture a thin film wafer by forming a layer of the
+third component such as a self-adhesive and an adhesive
+onto a wafer on which the organic film layer (B) is formed,
+further forming a support on the layer of the third
+component in accordance with needs, and subjecting the
+wafer surface that is not laminated (the back surface) to
+grinding process, etc. In this case, it is possible to
+use a wafer processing laminate in which the coverage of
+the organic film layer (B) is recognized as good by the
+foregoing checking step. It is also possible to use a
+wafer processing laminate manufactured under the same
+conditions as for the wafer processing laminate, the
+coverage of which is recognized as good, except that a
+fluorescent agent is not contained.
+
+[0070]
+[Method for Checking Coverage of Organic Film]
+
+The inventive method for checking coverage of an
+organic film is a method for checking coverage of an
+organic film layer (B) with a film thickness of less than
+
+100 nm, being formed on a wafer having a surface on which
+
+20
+

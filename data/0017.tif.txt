@@ -1,0 +1,48 @@
+ 
+
+EP 17 000 764.5 DESCRIPTION (03.05.2017) 17> 18
+
+ 
+
+Shin-Etsu Chemical Co., Ltd. EPA-139 128
+
+Particularly in spin-coating, it is general to
+condition the organic film layer (B) prior to the use, by
+dissolving the component(s) into a solvent and so on so
+that the targeted film thickness can be coated. In this
+case, the mixture of the component(s) of the organic film
+layer (B) and the solvent may be spin-coated while
+controlling the liquid amount so as to give a desired
+thickness. In case of using a 200 mm wafer, it is
+preferable to control the coating amount (dropping amount)
+of the mixture to 0.5 to 20 ml. The solvent is not
+particularly limited as far as the solvent can dissolve
+the organic film layer (B). For example, when the
+foregoing thermoplastic organopolysiloxane polymer is used
+as the organic film layer (B), it is favorable to use a
+hydrocarbon solvent such as pentane, hexane, cyclohexane,
+iLsononane, decane, isododecane, limonene, and p-menthane.
+[0058]
+
+When the thermoplastic organopolysiloxane polymer is
+dissolved into a solvent, the polymer concentration in the
+solution is 0.01 to 3.00% by mass, preferably 0.05 to
+2.00% by mass, more preferably 0.20 to 1.00% by mass.
+
+When the concentration of the solution is 0.01% by mass or
+more, the applied film is prevented from being too thin,
+and the film formation becomes easier. When the
+concentration of the solution is 3.00% by mass or less,
+the film thickness is prevented from exceeding 100 nm
+after applying the film. The organic film layer (B) can
+be formed by additionally dissolving a fluorescent agent
+into this solution in which thermoplastic
+organopolysiloxane polymer is dissolved into a solvent,
+followed by spin-coating.
+
+[0059]
+
+In case of the organic film layer (B) described
+
+17
+

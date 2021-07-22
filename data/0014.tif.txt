@@ -1,0 +1,50 @@
+ 
+
+EP 17 000 764.5 DESCRIPTION (03.05.2017) 145 15
+
+ 
+
+Shin-Etsu Chemical Co., Ltd. EPA-139 128
+
+condensate in which a organopolysiloxane resin having a
+RR? R354 01/2 unit and a SiOg/z2 unit in a molar ratio of 0.6
+to 1.7 is partly condensed with organopolysiloxane shown
+by the following general formula (1) with the both
+terminals being blocked by hydroxy groups and having a
+polymerization degree (n) of 5000 to 10000. Since the
+organopolysiloxane has a polymerization degree of 5000 to
+10000, the organic film layer (B) that contains the
+foregoing condensate can be a layer of highly polymerized
+
+thermoplastic polymer of resin modified organosiloxane.
+
+CHs R*! CH
+HO-Si-O Si-O Si-OH a)
+
+CH, \R™ /,CH3
+[0048]
+
+In the formula, R?! and R*? each independently
+represent an unsubstituted or substituted monovalent
+hydrocarbon group having 1 to 10 carbon atoms,
+specifically a monovalent hydrocarbon group including
+alkyl groups such as a methyl group, an ethyl group, a n-
+propyl group, an isopropyl group, a n-butyl group, a t-
+butyl group, a n-pentyl group, a cyclopentyl group, anda
+n-hexyl group, cycloalkyl groups such as a cyclohexyl
+group, aryl groups such as a phenyl group and a tolyl
+group; and their halogenated groups in which part of or
+all of the hydrogen atom(s) are substituted with halogen
+atom(s). In these groups, a methyl group and a phenyl
+group are commonly used.
+
+[0049]
+
+In the formula, R’', R®* and R*? each independently
+represent an unsubstituted or substituted monovalent
+hydrocarbon group having 1 to 10 carbon atoms or a hydroxy
+
+group, specifically a monovalent hydrocarbon group
+
+14
+
